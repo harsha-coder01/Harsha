@@ -1,5 +1,5 @@
 # Table Connector
-> welcome
+
 > Enterprise-grade JDBC Connector for PySpark with Azure Key Vault
 > integration.
 
